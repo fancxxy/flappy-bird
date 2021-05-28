@@ -1,5 +1,8 @@
-基于 SDL1.2 的 flappy-bird
+flappy bird
 ===========
 
-![image](https://github.com/fancxx/flappy-bird/raw/master/screenshots/screenshot1.png)
-![image](https://github.com/fancxx/flappy-bird/raw/master/screenshots/screenshot2.png)
+用SDL2的Go语言绑定写的flappy bird
+
+![image](https://github.com/fancxx/flappy-bird/raw/master/resources/screenshots/screenshot1.png)
+![image](https://github.com/fancxx/flappy-bird/raw/master/resources/screenshots/screenshot2.png)
+![image](https://github.com/fancxx/flappy-bird/raw/master/resources/screenshots/screenshot3.png)
